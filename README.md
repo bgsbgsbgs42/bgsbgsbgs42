@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Bella! 
 # A Researcher and Programmer: AI + ML enthusiast, and app development fanatic. 
 
-![Tech Consultant business Banner (1)](https://github.com/user-attachments/assets/fa0a2e51-8e05-48be-9f4f-4e21429758b9)
+![Tech Consultant business Banner (2)](https://github.com/user-attachments/assets/f844cdff-0be3-4979-881b-f912dce45342)
+
 
 - 🔭 I’m currently working on: my old projects, research papers in the AI Alignment space, and a career coach application that pulls from LinkedIn, CV, job boards and browser cookies to deliver personalised recommendations about suggestions. 
 - 🌱 I’m currently learning: React, Python, SQL, MERN stack, AI and Machine Learning.
