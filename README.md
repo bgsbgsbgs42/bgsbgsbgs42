@@ -2,7 +2,7 @@
 # A Researcher and Programmer: AI + ML enthusiast, and app development fanatic. 
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src=img src = https://www.canva.com/design/DAGT8AZxc4I/yUV4DbbcsHdsyk2KYbdSJA/view" alt="my banner"></a>
+  <a href = "https://iggyggsmith42.wixsite.com/photographyntings" target="_blank" rel="noreferrer"><img src=img src = https://www.canva.com/design/DAGT8AZxc4I/yUV4DbbcsHdsyk2KYbdSJA/view" alt="my banner"></a>
 </p>
 
 - 🔭 I’m currently working on: my old projects, research papers in the AI Alignment space, and a career coach application that pulls from LinkedIn, CV, job boards and browser cookies to deliver personalised recommendations about suggestions. 
