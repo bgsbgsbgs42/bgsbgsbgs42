@@ -14,7 +14,7 @@
 - 😄 Pronouns: she/her...
 - ⚡ Fun fact: I'm a massive space geek!
 
-## Technical Skills
+## Technical Skills 💼: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,10 +36,10 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-##Latest Posts: 
-- [Virtue Ethics and AI Alignment] (https://github.com/bgsbgsbgs42/AIAlignmentProject/blob/main/Virtue%20Ethics%20and%20Alignment%20Paper%20(Final).pdf)
+##Latest Posts 📝 : 
+- [Virtue Ethics and AI Alignment](https://github.com/bgsbgsbgs42/AIAlignmentProject/blob/main/Virtue%20Ethics%20and%20Alignment%20Paper%20(Final).pdf)
 
-## Connect with me:
+## Connect with me 🤝:
 - Instagram: @brokenphonedilemma42
 - Email: iggyggsmith42@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bella-smith-/
