@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning: React, Python, SQL, MERN stack, AI and Machine Learning.
 - 👯 I’m looking to collaborate on apps and entrepreneurship.
 - 🤔 I’m looking for help with advancing my current skills.
-- 💬 Ask me about my latest projects
-- 📫 How to reach me: by email (iggyggsmith42@gmail.com) or via Linkedin (https://www.linkedin.com/in/bella-smith-/)
-- 😄 Pronouns: she/her...
+- 💬 Ask me about my latest projects.
+- 📫 How to reach me: by [email](iggyggsmith42@gmail.com) or via [Linkedin](https://www.linkedin.com/in/bella-smith-/).
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a massive space geek!
 
 ## Technical Skills 💼: 
