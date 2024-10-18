@@ -39,9 +39,9 @@
 - [Virtue Ethics and AI Alignment](https://github.com/bgsbgsbgs42/AIAlignmentProject/blob/main/Virtue%20Ethics%20and%20Alignment%20Paper%20(Final).pdf)
 
 ## Connect with me 🤝:
-- Instagram: @brokenphonedilemma42
-- Email: iggyggsmith42@gmail.com
-- LinkedIn: https://www.linkedin.com/in/bella-smith-/
-- X (Formerly Known As Twitter): 
+- [Instagram](https://www.instagram.com/broken_phone_dilemma42/)
+- [Email](iggyggsmith42@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bella-smith-/)
+- [X (Formerly Known As Twitter)](https://x.com/SmithIsobel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgsbgsbgs42&layout=compact)](https://github.com/bgsbgsbgs42)
