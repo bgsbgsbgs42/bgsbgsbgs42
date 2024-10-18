@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Bella! 
-# A Researcher and Programmer: AI + ML enthusiast, and app development fanatic. 
+# Researcher and Programmer: AI + ML enthusiast, and app development fanatic. 
 
 ![Tech Consultant business Banner (2)](https://github.com/user-attachments/assets/f844cdff-0be3-4979-881b-f912dce45342)
 
