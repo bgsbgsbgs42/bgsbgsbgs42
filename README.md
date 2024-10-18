@@ -9,3 +9,4 @@
 - 😄 Pronouns: she/her...
 - ⚡ Fun fact: I'm a massive space geek!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgsbgsbgs42&layout=compact)](https://github.com/bgsbgsbgs42)
