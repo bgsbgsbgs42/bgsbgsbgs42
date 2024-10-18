@@ -36,6 +36,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+##Latest Posts: 
+- [Virtue Ethics and AI Alignment] (https://github.com/bgsbgsbgs42/AIAlignmentProject/blob/main/Virtue%20Ethics%20and%20Alignment%20Paper%20(Final).pdf)
 
 ## Connect with me:
 - Instagram: @brokenphonedilemma42
