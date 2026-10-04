@@ -47,11 +47,11 @@ Our research team tests four mechanisms by which human oversight could erode. My
 | --- | --- | --- |
 | [Enhancing Cyber Threat Forecasting with Dark Web Signals, Transfer Learning, an Agentic LLM System and Explainable AI](https://github.com/Birkbeck/msc-project-source-code-files-24-25-bgsbgsbgs42) | MSc dissertation, Birkbeck. Proactive cyber defence models combining dark web intelligence with explainable deep learning, with an agentic LLM selecting between models. | 2025 |
 | [Sentience Salience Probe](https://github.com/bgsbgsbgs42/Sentience_Salience_Probe) | Futurekind AI & Animal Safety Fellowship | 2026 |
-| [Specification Gaming in PLF] (https://github.com/bgsbgsbgs42/Specification-Gaming-in-a-Simulated-Precision-Livestock-Farming-Environment)| Futurekind AI & Animal Safety Fellowship | 2026 |
+| [Specification Gaming in PLF](https://github.com/bgsbgsbgs42/Specification-Gaming-in-a-Simulated-Precision-Livestock-Farming-Environment)| Futurekind AI & Animal Safety Fellowship | 2026 |
 | [Interpretability Claims Against Philosophy of Mind](https://github.com/bgsbgsbgs42/Philosophical-Stress-Test-of-Mechanistic-Interpretability) | AI Safety, Ethics and Society (CAIS) | 2025 |
 | [Conceptual Engineering for a Definition of Deceptive Alignment](https://github.com/bgsbgsbgs42/Conceptual-Engineering-Definitions-for-AI-Safety) | AI Safety India | 2025 |
-| [Ethical Calculus for AI] (https://github.com/bgsbgsbgs42/Ethical-Calculus-for-AI/tree/main) | AI Safety Collab | 2025 |
-| Thematic and sentiment analysis tool for in-house LLMs, and research poster for HDRUK [[link?](https://www.hdruk.ac.uk/wp-content/uploads/2025/10/BIP2025-Poster_Isobel_Smith.pdf)] | AI Engineering Internship, UKHSA | 2025 |
+| [Ethical Calculus for AI](https://github.com/bgsbgsbgs42/Ethical-Calculus-for-AI/tree/main) | AI Safety Collab | 2025 |
+| [Thematic and sentiment analysis tool for in-house LLMs, and research poster for HDRUK](https://www.hdruk.ac.uk/wp-content/uploads/2025/10/BIP2025-Poster_Isobel_Smith.pdf)] | AI Engineering Internship, UKHSA | 2025 |
 | [Virtue Ethics and Its Role in Agentic AI Alignment](https://github.com/bgsbgsbgs42/AIAlignmentProject/blob/main/Virtue%20Ethics%20and%20Alignment%20Paper%20(Final).pdf) | BlueDot Impact, AI Safety Alignment | 2024 |
 
 Philosophy of AI writing: 
