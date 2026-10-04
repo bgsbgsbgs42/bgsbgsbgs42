@@ -56,10 +56,10 @@ Our research team tests four mechanisms by which human oversight could erode. My
 
 Philosophy of AI writing: 
 
-[Is AI-generated art really art? A Hegelian perspective](https://github.com/bgsbgsbgs42/Papers/blob/main/Is%20AI-generated%20art%20really%20art_%20A%20Hegelian%20Perspective.pdf)
-[Models of Machine Intelligence Beyond the Brain-Computer Metaphor](https://github.com/bgsbgsbgs42/Papers/blob/main/Models%20of%20Machine%20Intelligence)
-[Why AI Cannot Want What We Want: The Ontology of the Subject and the AI Alignment Problem](https://github.com/bgsbgsbgs42/Papers/blob/main/%C5%BDi%C5%BEek's%20Subject%20and%20the%20AI%20Alignment%20Problem%20Why%20AI%20Cannot%20W%20(2).pdf)
-[Value Pluralism, Lyotard's Metanarrative Problem and the Foundations of AI Alignment](https://github.com/bgsbgsbgs42/Papers/blob/main/Value%20Pluralism%2C%20Lyotard's%20Metanarrative%20Problem%20and%20%20the%20Foundations%20of%20AI%20Alignment)
+- [Is AI-generated art really art? A Hegelian perspective](https://github.com/bgsbgsbgs42/Papers/blob/main/Is%20AI-generated%20art%20really%20art_%20A%20Hegelian%20Perspective.pdf)
+- [Models of Machine Intelligence Beyond the Brain-Computer Metaphor](https://github.com/bgsbgsbgs42/Papers/blob/main/Models%20of%20Machine%20Intelligence)
+- [Why AI Cannot Want What We Want: The Ontology of the Subject and the AI Alignment Problem](https://github.com/bgsbgsbgs42/Papers/blob/main/%C5%BDi%C5%BEek's%20Subject%20and%20the%20AI%20Alignment%20Problem%20Why%20AI%20Cannot%20W%20(2).pdf)
+- [Value Pluralism, Lyotard's Metanarrative Problem and the Foundations of AI Alignment](https://github.com/bgsbgsbgs42/Papers/blob/main/Value%20Pluralism%2C%20Lyotard's%20Metanarrative%20Problem%20and%20%20the%20Foundations%20of%20AI%20Alignment)
 
 
 ## Training and fellowships
