@@ -2,8 +2,6 @@
 
 I am an AI safety researcher working on corrigibility, AI control and early detection of misalignment. I came to alignment through philosophy and data science, and most of my work tries to connect the two. I often take an alignment concept that seems intuitive, work out what it assumes, turn it into something measurable, and then test whether it holds up in real models.
 
-![Banner for Isobel (Bella) Smith's GitHub profile](https://github.com/user-attachments/assets/f844cdff-0be3-4979-881b-f912dce45342)
-
 ## About me
 
 - MRes in Philosophy (AI Alignment), Birkbeck, University of London. Dissertation on corrigibility and the paradoxes of control.
