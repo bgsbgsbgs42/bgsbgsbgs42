@@ -49,7 +49,7 @@ Our research team tests four mechanisms by which human oversight could erode. My
 | [Interpretability Claims Against Philosophy of Mind](https://github.com/bgsbgsbgs42/Philosophical-Stress-Test-of-Mechanistic-Interpretability) | AI Safety, Ethics and Society (CAIS) | 2025 |
 | [Conceptual Engineering for a Definition of Deceptive Alignment](https://github.com/bgsbgsbgs42/Conceptual-Engineering-Definitions-for-AI-Safety) | AI Safety India | 2025 |
 | [Ethical Calculus for AI](https://github.com/bgsbgsbgs42/Ethical-Calculus-for-AI/tree/main) | AI Safety Collab | 2025 |
-| [Thematic and sentiment analysis tool for in-house LLMs, and research poster for HDRUK](https://www.hdruk.ac.uk/wp-content/uploads/2025/10/BIP2025-Poster_Isobel_Smith.pdf)] | AI Engineering Internship, UKHSA | 2025 |
+| [Thematic and sentiment analysis tool for in-house LLMs, and research poster for HDRUK](https://www.hdruk.ac.uk/wp-content/uploads/2025/10/BIP2025-Poster_Isobel_Smith.pdf) | AI Engineering Internship, UKHSA | 2025 |
 | [Virtue Ethics and Its Role in Agentic AI Alignment](https://github.com/bgsbgsbgs42/AIAlignmentProject/blob/main/Virtue%20Ethics%20and%20Alignment%20Paper%20(Final).pdf) | BlueDot Impact, AI Safety Alignment | 2024 |
 
 Philosophy of AI writing: 
